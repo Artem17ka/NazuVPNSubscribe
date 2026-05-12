@@ -1,0 +1,7 @@
+#profile-title: ⛩️ NazuVPN ⛩️
+#profile-update-interval: 12
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
+vless://d61b605c-e186-483e-ae53-7deaf7c56098@vpn-1.usp-vpn.store:443?security=reality&encryption=none&echfq=none&pbk=8C7evg_SSrJbxMTaUqJoylqB9HSNsmBvmUlgs_c5EiU&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=vpn-1.usp-vpn.store&sid=90cfb50d12729375#📺 YOUTUBE 🌸
+vless://9cb6bc8a-d1a9-4b30-aace-48d6d3a5e95f@telegram.private-networks-zk.com:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=ads.x5.ru&pbk=-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw&sid=50#💬 TELEGRAM 🌸
+vless://a4c0fe0c-23ed-486a-8b4f-658504ca36e0@193.233.217.174:443?type=tcp&security=reality&pbk=JYt-2J_e3204dsiJcZv0AsUc4KIM-zj2MceJQIeGuxg&fp=chrome&sni=yahoo.com&sid=64d0&spx=50#✈️ АНТИГЛУШИЛКА 🌸
+vless://ce1e547c-899a-48cb-89af-42100af68ee5@5.129.215.152:443?type=tcp&security=reality&pbk=gDaL_AWUClSUraz9fpTlDwKXCS-JydQJX2XQGpEjLHQ&fp=chrome&sni=yahoo.com&sid=59c6&spx=50#✈️ АНТИГЛУШИЛКА 🌸
